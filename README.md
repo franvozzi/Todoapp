@@ -17,7 +17,7 @@ The To-Do List App is a simple desktop application built using PyQt5. It allows 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/todo-app.git
+    git clone https://github.com/franvozzi/todoapp.git
     cd todo-app
     ```
 
