@@ -10,7 +10,7 @@ The To-Do List App is a simple desktop application built using PyQt5. It allows 
 - Clear the input field after adding a task.
 
 ## Prerequisites
-- Python 3.x
+- Python 3.6
 - PyQt5
 
 ## Installation
@@ -92,7 +92,7 @@ from .delete_task import delete_task_functionality
 from .task_list import TaskList
 ```
 ### main_window.py
-```pyhton
+```python
 from PyQt5.QtWidgets import QWidget, QVBoxLayout, QLineEdit, QPushButton
 from .task_list import TaskList
 from .add_task import add_task_functionality
