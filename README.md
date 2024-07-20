@@ -34,24 +34,6 @@ The To-Do List App is a simple desktop application built using PyQt5. It allows 
     python main.py
     ```
 
-## Project Structure
-todo_app/
-├── README.md
-├── LICENSE
-├── main.py
-├── requirements.txt
-├── app/
-│ ├── init.py
-│ ├── main_window.py
-│ ├── add_task.py
-│ ├── delete_task.py
-│ ├── task_list.py
-└── tests/
-├── init.py
-├── test_add_task.py
-├── test_delete_task.py
-├── test_task_list.py
-
 
 ### File Descriptions
 
